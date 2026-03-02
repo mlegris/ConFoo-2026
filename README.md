@@ -49,6 +49,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | From Address to Dashboard: Weather History at Scale | Loïc Tréhin | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf) |
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 | Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
+| EdgeAI on Mobile | Mathieu Fillion | [PDF](2026-02-26/EdgeAI%20on%20Mobile%20-%20MathieuFillion.pdf) |
 | Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 | Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 | Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
