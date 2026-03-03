@@ -49,16 +49,20 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | From Address to Dashboard: Weather History at Scale | Loïc Tréhin | [PDF](2026-02-26/from_address_to_dashboard_weather_history_at_scale-loic_trehin.pdf) |
 | ASP.NET Core Authentication Explained | Wesley Cabus | [PDF](2026-02-26/asp_net_core_authentication_explained-wesley_cabus.pdf) |
 | Rising After the Fall: Engineering Your Career Comeback | Kevin Goldsmith | [Slides (PDF)](2026-02-26//Rising_After_the_Fall_Engineering_Your_Career_Comeback-Kevin_Goldsmith.pdf) |
+| EdgeAI on Mobile | Mathieu Fillion | [PDF](2026-02-26/EdgeAI%20on%20Mobile%20-%20MathieuFillion.pdf) |
 | Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 | Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 | Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
 | OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
+| Safe Agentic Dev Environments | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-26/safe_agentic_coding-rida_al_barazi.pdf) |
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | Redefining Code Review with AI | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-26/Redefining-Code-Review-with-AI_ErikBeaulieu.pdf) |
 | Insights on Context & Memory for a Supportive Assistant | [Cedric L'homme](https://github.com/rangzen) | [PDF](2026-02-26/insights_on_context_and_memory_for_a_supportive_assistant-cedric_lhomme.pdf) |
 | Can We Use AI with .NET? | Frank Boucher | [PDF](2026-02-26/can_we_use_AI_with_dotnet-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/csharp10-script/README.md) |
+| How we failed at Event Sourcing | Louis Beaudoin-Allaire | [PDF](2026-02-26/how_we_failed_at_event_sourcing-louis_beaudoin_allaire.pdf) |
+
 
 ## February 27
 
@@ -74,9 +78,11 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
 | Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
+| Agentic Coding: Building Features with AI Teammates | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-27/agentic_coding-rida_al_barazi.pdf) |
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
 | La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
 | Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
 | Building Agentic Research Assistants to Search Online for Us | Frank Boucher | [PDF](2026-02-27/building_agentic_research_assistants_to_search_online_for_us-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/event-finder/README.md) |
+| Developers should choose team structure, not managers | Louis Beaudoin-Allaire | [PDF](2026-02-27/developers_should_choose_team_structure-louis_beaudoin_allaire.pdf) |
